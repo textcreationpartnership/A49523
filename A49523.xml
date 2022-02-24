@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lyn persecution: being the case of our brother the Baptist minister there James Marham whose goods have been seized, and himself harrased in law (and is now prosecuted in Chancery) for holding a Baptist meeting in that town, notwithstanding his and the houses legal qualification. Here is also, a brief relation of his former service and sufferings in promoting the great, though much despised docrin [sic] of believers baptism. Well approved and advised by the general elder deceased Thomas Grantham. Attested by the adjacent churches, and directed to the churches at London and the country.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49523</idno>
+            <idno type="STC">Wing L3571AA</idno>
+            <idno type="STC">ESTC R221783</idno>
+            <idno type="EEBO-CITATION">99833040</idno>
+            <idno type="PROQUEST">99833040</idno>
+            <idno type="VID">37515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2190:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lyn persecution: being the case of our brother the Baptist minister there James Marham whose goods have been seized, and himself harrased in law (and is now prosecuted in Chancery) for holding a Baptist meeting in that town, notwithstanding his and the houses legal qualification. Here is also, a brief relation of his former service and sufferings in promoting the great, though much despised docrin [sic] of believers baptism. Well approved and advised by the general elder deceased Thomas Grantham. Attested by the adjacent churches, and directed to the churches at London and the country.</title>
+                  <author>Grantham, Thomas, 1634-1692.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed to be read only by the lovers of believers Baptism, because it is fitted only for their use,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1692/3.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy stained.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marham, James --  Early works to 1800.</term>
+               <term>Baptists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37515:1" rendition="simple:additions"/>
+            <p>THE <hi>Lyn Perſecution:</hi> Being the Caſe of our Brother the Baptiſt Miniſter there <hi>JAMES MARHAM,</hi> WHOSE Goods have been ſeized, and himſelf harraſed in Law (and is now proſecuted in Chan<g ref="char:EOLhyphen"/>cery) for holding a Baptiſt Meeting in that Town, notwithſtanding his and the Houſes legal Qualification.</p>
+            <p>Here is alſo, A brief Relation of his former Service and Suffer<g ref="char:EOLhyphen"/>ings in promoting the great, though much de<g ref="char:EOLhyphen"/>ſpiſed Doctrin of Believers Baptiſm.</p>
+            <p>Well approved and adviſed by the general Elder deceaſed <hi>Thomas Grantham.</hi>
+            </p>
+            <p>Atteſted by the adjacent Churches, and directed to the Churches at <hi>London</hi> and the Country.</p>
+            <p>Printed to be read only by the Lovers of Believers Baptiſm, becauſe it is ſitted only for their Uſe. 1692/3.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:37515:2"/>
+            <head>Chriſtian Brethren, <hi>holding the Doctrin of</hi> Believers Baptiſm.</head>
+            <p>IT's known to ſome, that much of this <hi>Caſe</hi> was moved to our <hi>Brethren and Churches</hi> at <hi>London,</hi> (that being our Centre) about <hi>September, 1692.</hi> and then it was <hi>adviſed</hi> to give a more particular Relation: Therefore, and becauſe the Caſe is grown <hi>more heavy,</hi> is now a Relation given, and given in Print, that it may be effectually <hi>intelligible</hi> to all our <hi>Baptized Brethren,</hi> which otherwiſe we could not propoſe how to <hi>eaſily</hi> make it ſo. And to do this credibly, we have compoſed <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his Narrative of thoſe parts whereof you ſee it doth <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſiſt, <hi>viz. The brief Account of Matter of Fact which our Brother</hi> Marham <hi>left under his own Hand, at</hi> London, September, <hi>1692. and alſo the Teſti<g ref="char:EOLhyphen"/>monial from the Brethren at</hi> Lyn, <hi>and Parts adacent. Alſo, the Teſtimonials of Brother</hi> Nicholas Knowles, <hi>Elder of the baptized Church at</hi> Whitelſey. <hi>And as Circumſtantials to his preſent Caſe, here are prefixed ſeveral remarkable Services done by Bro<g ref="char:EOLhyphen"/>ther</hi> Marham <hi>for the Baptiſt Intereſt; and are, therefore, cogent Arguments for our reaſon to work upon.</hi>
+            </p>
+            <p>Brethren, the <hi>Circumſtances</hi> of our Brother <hi>James Marham,</hi> which preceded his preſent Troubles, being very remarkable, are Tokens of a good and great deſire to promote, what in him lay, the <hi>great,</hi> though much deſpiſed, Doctrin of <hi>Believers Baptiſm;</hi> and, there<g ref="char:EOLhyphen"/>fore, we think it proper to let you know them, as well as his preſent Troubles, that it may appear that his preſent Trouble is not a light ſingle Trouble upon him, neither
+<pb facs="tcp:37515:2" rendition="simple:additions"/>
+a Trouble fallen upon a Brother of a ſlothful Spirit; but 'tis an <hi>unſupportable Trouble</hi> come upon the back of ſeveral preceding Troubles, through which he hath ſtrug<g ref="char:EOLhyphen"/>led with great <hi>Charge, Loſs and Pains,</hi> and yet his <hi>Love</hi> to Truth hath not declined its <hi>Promotion;</hi> this, I think, is a <hi>Wonder.</hi> But <hi>'tis native for a Chri<g ref="char:EOLhyphen"/>ſtian to do Wonders in Perſeverance,</hi> and therefore is a great Demonſtration of <hi>Chriſtianity,</hi> or a <hi>Work of Grace upon the Soul,</hi> the conſideration of which, together with the publick Intereſt of <hi>Chriſt,</hi> muſt needs move in us that <hi>Love,</hi> that as an <hi>inſtinct</hi> is in every <hi>true</hi> Chriſtian to the <hi>Brethren:</hi> And I aſſure you, my Brethren, this is that that hath wrought in me (he having hardly any other Acquaintance in <hi>London)</hi> to thus appear in be<g ref="char:EOLhyphen"/>half of his and our Intereſts, or rather, <hi>Chriſts Inte<g ref="char:EOLhyphen"/>reſt;</hi> for otherwiſe, I have <hi>my own worldly Buſi<g ref="char:EOLhyphen"/>neſs</hi> to mind as other Brethren have, and could as glad<g ref="char:EOLhyphen"/>ly reſt from <hi>this.</hi> But when I ſee a Brother (ingaged in our publick Cauſe) on the Frontiers, made War upon by our <hi>common Enemy,</hi> I cannot be ſilent, but muſt publiſh it to Brethren, that <hi>their Strength</hi> may be called in to <hi>his Relief,</hi> before, by the violence of Storms, <hi>he</hi> is utterly <hi>ruined,</hi> and the <hi>Cauſe</hi> there <hi>loſt,</hi> and our <hi>ſelves</hi> made the next <hi>Spoil</hi> to the Enemy. Pray, my Brethren, let it not be with us, as it was with the <hi>Prieſt and Levite that paſſed by their Brother that fell a<g ref="char:EOLhyphen"/>mong Thieves and was wounded,</hi> leſt it lies as a <hi>Reproach</hi> upon us, as it doth upon the Prieſt and Levite <hi>unto this day. God</hi> doth <hi>mind</hi> our labour of <hi>Love;</hi> and <hi>Chriſt</hi> ſaith, <hi>That foraſmuch as you did it not to them that believe on me, you did it not to me.</hi> And <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this <hi>Relief</hi> Brother <hi>Knowles</hi> hath ſpoken very eſſen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ially, <hi>Bis dat, qui cito dat,</hi> He that gives quickly, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ves twice: For it will be too late to take a Man out of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Water when he is <hi>drowned;</hi> Pro's and Con's about
+<pb n="4" facs="tcp:37515:3"/>
+whoſe right and duty, are <hi>dangerous Delays;</hi> even as when we ſee a Man a <hi>ſinking,</hi> 'tis then no time to con<g ref="char:EOLhyphen"/>tend about the price, and whoſe right it is to pay the charge of a Boat going out to <hi>to take him</hi> up. Now or never is the time, as you may alſo perceive by this preſ<g ref="char:EOLhyphen"/>ſing, for great Strains are for great Reaſons; and we thus ſtrain becauſe the <hi>Burden</hi> upon our Brother <hi>Mar<g ref="char:EOLhyphen"/>ham</hi> is now to him <hi>intollerable,</hi> having always <hi>readily expended</hi> his Subſtance for the <hi>publick</hi> Interest of <hi>Be<g ref="char:EOLhyphen"/>lievers Baptiſm:</hi> And this <hi>heavy Loſs</hi> to come upon the back of all the rest at last, is unſupportable to him, as it would have been to <hi>many of us,</hi> though we had not, as he, ſo liberally bore the Charges of divers former Occa<g ref="char:EOLhyphen"/>ſions; for a <hi>Man cannot always hold out, Mony has an end;</hi> all Men have not abundance, tho they may have enough for their own ſupport, could they enjoy that peaceably.</p>
+            <p>Methinks, my Brethren, we ſhould not know how to let <hi>Neglect</hi> charge, <hi>dreadfully charge</hi> our Conſciences with ſo great a ſin, as neglect in this caſe will do; are we willing, or ſhall we chuſe to <hi>ſave our help and loſe the Goſpel,</hi> or at leaſt run the venture? Or, ſhall we think that a Brother, <hi>ſuch a Brother,</hi> doth not oblige us, <hi>nearly concern us?</hi> Methinks, our <hi>Saviour's ſaying</hi> reaches this Matter, <hi>Whoſoever hateth his Brother without a Cauſe is guilty—</hi>And ſo, Whoſoever neg<g ref="char:EOLhyphen"/>lecteth his Brother without a Cauſe, nay, when there is <hi>meritorious Cauſe to relieve him,</hi> is alſo <hi>guilty.</hi>
+            </p>
+            <div type="part">
+               <head>'Tis more Juſtice than Charity.</head>
+               <p>And now more directly to our Brethren, of the particu<g ref="char:EOLhyphen"/>lar Point, I ſay, That <hi>this Caſe, as it comes from the Enemy, is not upon the Account of the general or the particular Points, but againſt Baptiſm it ſelf<g ref="char:punc">▪</g>
+                  </hi> for the Enemy being much of the general Point them<g ref="char:EOLhyphen"/>ſelves, the enmity muſt needs be as they have declared, <hi>purely againſt Believers Baptiſm only, and not th<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:37515:3"/>
+Perſon;</hi> and therefore, <hi>this</hi> Caſe doth alſo concern our <hi>particular</hi> Brethren, the Conſideration of which hath ſo <hi>affected</hi> our Brother <hi>Elder Rix</hi> of <hi>Wisbich,</hi> that he hath ſent a brief Relation thereof, not only to me, but alſe to Brother <hi>Keach;</hi> for he finds the Lord hath a Peo<g ref="char:EOLhyphen"/>ple in that Town, having diſcourſed with ſome, on whom a work of Grace hath been wrought.</p>
+               <p>And I think I may note that many <hi>Miniſters of dif<g ref="char:EOLhyphen"/>ferent Profeſſions</hi> have of late <hi>united,</hi> becauſe they would promote their <hi>School-Fellows,</hi> &amp;c. and ſhall not <hi>we Baptiſts,</hi> that both of us, of an humble Spirit, <hi>ſlighted</hi> the ſuperſtitious World's <hi>Reproach</hi> and <hi>Con<g ref="char:EOLhyphen"/>tempt,</hi> by ſubmitting to <hi>Baptiſm</hi> for the ſake of its being <hi>a great Goſpel Ordinance;</hi> I ſay, ſhall not we, alſo, <hi>unite</hi> to defend that Goſpel Ordinance, for which we <hi>in obedience expoſed our ſelves,</hi> and ought ſtill to ſuffer for, when called thereto? May our two Sticks alſo become one for the real furtherance of the Goſpel.</p>
+               <p>And to me it appears, that the <hi>Coſt and Charges</hi> that have attended our <hi>ſingle Brother Marham, would have ſtrained three Country Churches to have paid;</hi> and therefore he is a ſingular Brother, and now ought to be relieved.</p>
+               <p>But, my Brethren, I am <hi>ready to believe</hi> all theſe argumentive Notes are already <hi>impreſſed</hi> upon your Con<g ref="char:EOLhyphen"/>ſideration, and that, therefore, they are rather<g ref="char:punc">▪</g> ſuper<g ref="char:EOLhyphen"/>fluous than inſtructive, becauſe the Merit of the Cauſe appearing, you will readily <hi>eſpouſe it, and give your effectual Supplies;</hi> putting the management of the Matter into <hi>their Hands</hi> that will carefully diſ<g ref="char:EOLhyphen"/>charge theſe <hi>my</hi> Concerns herein. <hi>Pardon my</hi> this piece of <hi>Service</hi> for the <hi>publick</hi> Intereſt of our <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> that <hi>I may reſt,</hi> as I uſe to do, and remain your <hi>Chriſtian Brother,</hi>
+               </p>
+               <closer>
+                  <dateline>Lond. <date>Feb. 25. 1692/3.</date>
+                  </dateline>
+                  <signed>C. Doe.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="6" facs="tcp:37515:4"/>
+            <head>
+               <hi>A brief Relation of the remarkable Services and Troubles that went before the preſent Trouble of our Brother</hi> James Marham.</head>
+            <p>ABout three years before King <hi>Charles</hi> II. died, Brother <hi>Marham</hi> lived in the Town of <hi>Hol<g ref="char:EOLhyphen"/>bich</hi> in <hi>Lincoln-ſhire,</hi> and then the <hi>Perſecution</hi> was ſo great, that the Enemy made a <hi>Levy</hi> upon him for <hi>ſeveral ſcore Pounds,</hi> and was driven from one <hi>Ju<g ref="char:EOLhyphen"/>ſtice</hi> to another for 4 days of the Week together, and from one <hi>Court</hi> to another, until he was <hi>driven from both Trade and Habitation,</hi> notwithſtanding which, he ſeeing the Cauſe required it, did appear there <hi>in the defence of our Brethren Miniſters,</hi> Bro<g ref="char:EOLhyphen"/>ther <hi>William Rix,</hi> now Elder of the Church at <hi>Wiſ<g ref="char:EOLhyphen"/>bich,</hi> and Brother <hi>Samuel Phillips,</hi> until the Juſtices had <hi>ſet them at Liberty,</hi> and yet revenged their Quarrel upon Brother <hi>Marham,</hi> for ſpeaking pro<g ref="char:EOLhyphen"/>perly and legally in their behalf; ſo that the Ju<g ref="char:EOLhyphen"/>ſtice could not ſatisfie his unreaſonable deſires, without <hi>Impriſonment of Brother</hi> Marham, ſaying, <hi>That the People of the Town were all of one Religion un<g ref="char:EOLhyphen"/>til Brother</hi> Marham <hi>had Meetings</hi> in his Houſe, he being <hi>the firſt Baptiſt in</hi> Holbich; ſo that there is now a <hi>Church computed at about</hi> 30 <hi>baptized Perſons,</hi> whoſe Miniſter is Brother <hi>James Phillips.</hi>
+            </p>
+            <p>After this, they ſtill <hi>took away his Goods,</hi> inſo<g ref="char:EOLhyphen"/>much that he was <hi>forced to board himſelf and Wife</hi> for about a year and an half, tho to his much Damage<g ref="char:punc">▪</g> but the Enemy ſeeing that he often appeared in the behalf of <hi>perſecuted Brethren,</hi> to inſtruct and defend them, <hi>threatned to knock him on the Head.</hi>
+            </p>
+            <p>And after all this, in King <hi>James</hi>'s Reign, Brother
+<pb n="7" facs="tcp:37515:4"/>
+               <hi>Marham</hi> living in a Town called, <hi>Wapool-bell</hi> in <hi>Nor<g ref="char:EOLhyphen"/>folk,</hi> where the People were ſo much <hi>Strangers to the name of Baptiſt,</hi> that they ſaid he was <hi>an outlandiſh Profeſſor,</hi> for they <hi>never</hi> before heard of ſuch a name as <hi>Baptiſt:</hi> So that when he had lived there three Weeks, the <hi>Officers</hi> of the Town were ſent to <hi>Command him to frequent the Pariſh Church,</hi> or elſe to make his Appearance before Juſtice <hi>Con—</hi>and Mr. <hi>Harbe</hi> the Parſon of the Pariſh, which Brother <hi>Marham</hi> did, and was diſcourſed by them four Hours, ſeveral Gentlemen being preſent; and yet the Parſon profeſſing diſſatisfaction, appointed another time for a further <hi>Debate;</hi> but then came <hi>Liberty of Conſci<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce</hi> by Proclamation, and then the <hi>Parſon declined</hi> the further Debate, and Brother <hi>Marham,</hi> the ſame Week, <hi>ſet up a Meeting in</hi> Wa<g ref="char:EOLhyphen"/>pool, where ſeveral People did reſort, and it <hi>pleaſ<g ref="char:EOLhyphen"/>ed</hi> God ſo to proſper his Undertaking, that now there is a <hi>baptized</hi> People or Church ſetled there, the Miniſter thereof is Brother <hi>Robert Booth.</hi>
+            </p>
+            <p>And upon the Death of our Brother <hi>Marham</hi>'s then Wife, he removed from <hi>Wapool</hi> to his now Habitation in <hi>Lyn-regis</hi> in <hi>Norfolk,</hi> and then, by the great <hi>Advice</hi> of our Brother, and famed general Elder, <hi>Thomas Grantham</hi> deceaſed, our Bro<g ref="char:EOLhyphen"/>ther <hi>Marham</hi> hath undertaken to <hi>raiſe a Meeting</hi> in this great Town of <hi>Lyn</hi> alſo (though there was not another Baptiſt in this Town neither) which he hath done by <hi>hiring the Place, and furniſhing it,</hi> and entertaining Brother <hi>Grantham,</hi> and after that, Brother <hi>Long,</hi> our <hi>London</hi> Brethren's Meſſenger, ſeveral Months at Board, <hi>&amp;c.</hi> without Mony. And ſince that, Brother <hi>Audly</hi> of <hi>Feneſtanton</hi> Commu<g ref="char:EOLhyphen"/>nion; and ſince Brother <hi>Audly</hi>'s departure, our Brother <hi>Marham,</hi> to ſupport nhe Meeting, hath
+<pb n="8" facs="tcp:37515:5"/>
+himſelf <hi>Preached,</hi> and ſo continues to do, accept<g ref="char:EOLhyphen"/>ing of, and <hi>entertaining that help</hi> that comes to <hi>Lyn,</hi> from adjacent <hi>Churches;</hi> whereby it hath pleaſed God to bleſs theſe Endeavours with the ſucceſs of <hi>Converſion</hi> of ſeveral Perſons that are alſo <hi>baptized.</hi>
+            </p>
+            <p>And this <hi>Lyn</hi> Meeting is that that occaſioned his <hi>preſent very great Troubles,</hi> and is, by the Enemy, en<g ref="char:EOLhyphen"/>deavoured to be <hi>broken in pieces;</hi> upon which occa<g ref="char:EOLhyphen"/>ſion we thus move for <hi>Relief.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <p>The following <hi>Brief</hi> Brother <hi>Marne—</hi>ſignified to <hi>Goſwel-ſtreet</hi> Brethren; and I, to our <hi>Barbekin Brethren, Octob.</hi> 1692.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="statement">
+                        <head>
+                           <hi>Theſe, to the Baptized Congregations in</hi> London.</head>
+                        <p>
+                           <hi>Doth ſhew,</hi>
+                        </p>
+                        <p>THAT <hi>James Marham,</hi> with other of Their Majeſties loyal Subjects, diſſenting Prote<g ref="char:EOLhyphen"/>ſtants, under the Denomination of <hi>Baptiſts,</hi> hold<g ref="char:EOLhyphen"/>ing their <hi>Meeting,</hi> for the exerciſe of Religion, in <hi>Lyn-regis</hi> in the County of <hi>Norfolk,</hi> in a place there <hi>Licenſed</hi> according to the late <hi>Act</hi> of Parlia<g ref="char:EOLhyphen"/>ment, in that Caſe provided; have, notwithſtand<g ref="char:EOLhyphen"/>ing, been <hi>Proſecuted</hi> as Offenders for ſo doing, by <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> and <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> of <hi>Lyn</hi> aforeſaid, upon a Statute made in the Reign of King <hi>Charles</hi> the Second, Intituled, <hi>An Act to pre<g ref="char:EOLhyphen"/>vent and ſuppreſs Seditious Conventicles;</hi> and the Goods of the aboveſaid have been ſeized by a <hi>Levy,</hi> granted againſt him <hi>July,</hi> 1691. ſo that he petiti<g ref="char:EOLhyphen"/>oned
+<pb n="9" facs="tcp:37515:5"/>
+the Judge Sir <hi>E—N—, Septemb.</hi> 1691. at <hi>Norwich,</hi> and was after that, forc'd to communi<g ref="char:EOLhyphen"/>cate the ſame to ſome of the great Council the laſt Seſſions of Parliament, but after the Parliament was riſen, he was <hi>proſecuted</hi> for the ſame, and is yet <hi>in great Trouble threatning his Ruin (if God prevent not)</hi> being commanded ſeveral times to appear be<g ref="char:EOLhyphen"/>fore them, for the diſmiſſing of the Meeting, but as it pleaſed the Lord it is continued.</p>
+                        <closer>
+                           <dateline>Lond. <date>Sept. 28. 1692.</date>
+                           </dateline>
+                           <signed>James Marham.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Note,</hi> that about a fortnight after the Informers, by Bonds, had made an amicable end with Brother <hi>Marham,</hi> under pretence of great trouble of Con<g ref="char:EOLhyphen"/>ſcience, whereby they got from him a Diſcharge from their falſe Information, they then came and actually ſeized his Goods, according to the former Levy; which plainly diſcovered their deſign of a<g ref="char:EOLhyphen"/>greement was but to have a ſafer Advantage againſt him; and by ſeizing, to ruin him; and therefore 'twas that he was adviſed to ſue the Bonds.</p>
+            <p>The followng Teſtimonial I received of Brother <hi>Wright</hi> of <hi>Barbekin.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="statement">
+                        <opener>
+                           <dateline>Lyn Regis, <date>Nov. 7th 1692.</date>
+                           </dateline>
+                           <hi>To all</hi> Baptized Believers, <hi>in</hi> London <hi>and Country, where theſe may come, greeting, (upon the</hi> account of our Lord) <hi>to communicate unto them, and their Chri<g ref="char:EOLhyphen"/>ſtian Conſideration, the</hi> great Troubles <hi>that have attended</hi> James Marham <hi>ſince it hath pleaſed God to put it into the Hearts of the</hi> King and Parliament to grant Liberty, <hi>&amp;c.</hi>
+                        </opener>
+                        <p>
+                           <pb n="10" facs="tcp:37515:6"/>
+                           <hi>This doth ſhew,</hi>
+                        </p>
+                        <p>THat <hi>James Marham</hi> in <hi>Lyn Regis,</hi> being one of his Majeſty's loyal Subjects Diſſenting Proteſtants, under the Denomination of a <hi>Baptiſt,</hi> holding <hi>Meeting</hi> for the Exerciſe of Religion, in the place aforeſaid, in the County of <hi>Norfolk,</hi> in a Place there Licenſed according to the late Acts of Par<g ref="char:EOLhyphen"/>liament in that Caſe provided, hath notwithſtand<g ref="char:EOLhyphen"/>ing been <hi>proſecuted</hi> as an Offender, for ſo doing, from Seſſions to the Aſſizes, and from thence to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and other ſeveral Places, by <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> and <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> aforeſaid, upon Statute made in the Reign of King <hi>Charles</hi> II. entituled, <hi>An Act to Prevent and Suppreſs Seditious</hi> Conventicles: And the Goods of the <hi>above ſeized, and he himſelf in great Danger,</hi> to the great diſturbance of his Peace, and <hi>hindrance of his Trade, with great Expences of Mony and loſs of Time,</hi> to defend himſelf at this Time of Day, of Li<g ref="char:EOLhyphen"/>berty, notwithſtanding in the worſt of Times he hath ſuffered greatly, <hi>&amp;c.</hi>
+                        </p>
+                        <p>He doth therefore moſt humbly <hi>beſeech the Baptized Churches,</hi> as aforeſaid, <hi>to inſpect his Affair,</hi> which is a Precedent the like not found in <hi>England,</hi> and <hi>to commiſerate his condition,</hi> who deſires nothing but to enjoy his Liberty according to Law, and as other Diſſenting Proteſtants do enjoy the ſame, without any Moleſtation in the ſame Town, where it is denied him with great Rigour, and many Threatnings to be routed out of the Town.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>John Gregory,</item>
+                                 <item>Will. Harper,</item>
+                                 <item>Samuel Philips,</item>
+                                 <item>John Shipley,</item>
+                                 <item>John Poyed,</item>
+                                 <item>George Robſon,</item>
+                                 <item>Richard Robins,</item>
+                                 <item>Joſeph Marham,</item>
+                                 <item>Richard Couſons.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="statement">
+            <pb n="11" facs="tcp:37515:6"/>
+            <head>
+               <hi>The Caſe of our Brother</hi> James Marham <hi>of</hi> King's Lyn <hi>in the County of</hi> Norfolk, <hi>humbly offered to the Chri<g ref="char:EOLhyphen"/>ſtian Conſideration of all the</hi> Baptized Churches <hi>and Brethren, who look upon themſelves concerned to ſtrive together for the Promotion of the</hi> Goſpel of Truth, <hi>in this Day of</hi> Liberty.</head>
+            <p>THat there is a Meeting of <hi>Baptized Believers</hi> at <hi>Lyn,</hi> aboveſaid, we ſuppoſe is already knowm to many, not only in the <hi>Country</hi> but in <hi>London</hi> alſo, together with the <hi>Hard</hi> Things that have hitherto befallen <hi>them</hi> through the inveterate <hi>Malice</hi> of ſome <hi>great Adverſaries</hi> of Truth, therefore both Subſtance and Circumſtance is as followeth, <hi>viz.</hi>
+            </p>
+            <p>Our deceaſed Brother and Elder, <hi>Thomas Gran<g ref="char:EOLhyphen"/>tham,</hi> heretofore, about three Years ſince, came to <hi>Lyn,</hi> and Brother <hi>Marham,</hi> the now <hi>Miniſter,</hi> being always a very forward Promoter of <hi>Truth,</hi> though to his great Coſt and worldly <hi>Da<g ref="char:EOLhyphen"/>mage,</hi> heretofore, in the Times of great <hi>Perſecu<g ref="char:EOLhyphen"/>tion,</hi> yet ſtill by God's Providence of <hi>Grace,</hi> bear<g ref="char:EOLhyphen"/>ing an inward <hi>Love</hi> to the ſame upon Brother <hi>Grantham</hi>'s offering to preach there at <hi>Lyn,</hi> Brother <hi>Marham</hi> did procure the <hi>Town-hall,</hi> which at that time was ſo well repleniſh'd with attentive Auditors, like hungry and <hi>thirſty Souls,</hi> ſo that Brother <hi>Gran<g ref="char:EOLhyphen"/>tham</hi> being exceedingly pleaſed, put the ſaid Bro<g ref="char:EOLhyphen"/>ther <hi>Marham</hi> upon <hi>hiring</hi> and <hi>licenſing</hi> ſome conve<g ref="char:EOLhyphen"/>nient Place that a <hi>Meeting</hi> might be <hi>continued</hi> in the ſaid Town; which being <hi>chearfully conſented to by Brother</hi> Marham, he <hi>did</hi> it accordingly, and fitted the ſame at <hi>his own proper Charge,</hi> without help of any. Which Place, ſo fitted, was managed and ſupplied ſometimes by Brother <hi>Grantham,</hi> and ſome<g ref="char:EOLhyphen"/>times
+<pb n="12" facs="tcp:37515:7"/>
+by the <hi>Baptized Churches at</hi> Whitelſey, and other Places, as Brethren had occaſion to travel that way, which Brother <hi>Grantham,</hi> obſerving and receiv<g ref="char:EOLhyphen"/>ing the greater Kindneſs from the Brethren from <hi>London,</hi> to have Brother <hi>Will. Long</hi> ſent to <hi>Norwich</hi> as a help to him, he very freely, <hi>Jan.</hi> 8. 1690. ſent Brother <hi>William Long</hi> to reſide at <hi>Lyn</hi> for a Time, that that new Place of young <hi>Converts</hi> might taſte <hi>the Kindneſs of the London Brethren;</hi> by which means the <hi>Meeting</hi> grew great and numerous, which <hi>Satan</hi> envying, ſtirred up ſome <hi>Adverſaries,</hi> but by what Means or Perſons ſoever <hi>the great Ene<g ref="char:EOLhyphen"/>mies were ſtirred up</hi> to eſpouſe this unjuſt Cauſe under <hi>Pretence</hi> of the Houſe not being <hi>licenſed,</hi> nor qualified according to the Direction of the late Act for <hi>Liberty,</hi> although the <hi>Houſe was licenſed, with all the Formalities directed by the ſaid Act,</hi> and did therefore procure and encourage <hi>Robert White<g ref="char:EOLhyphen"/>head</hi> and <hi>Hen. Oſeingcraft</hi> to become <hi>Informers,</hi> who coming to the <hi>Meeting,</hi> entred their <hi>Information</hi> be<g ref="char:EOLhyphen"/>fore the <hi>Juſtices,</hi> who forthwith iſſued out their <hi>Levy,</hi> 20 <hi>l the Houſe,</hi> 20 <hi>l. the Preacher, and</hi> 5 <hi>s a piece the Hearers,</hi> by vertue of the Act againſt <hi>Conventiclcs:</hi> Our Brethren, all this while being ignorant of their Proceedings, till the Juſtices, not knowing upon whom to charge the 20 l. for the Houſe, ſent for Brother <hi>Marham,</hi> and asked him, If there was not a <hi>Meeting</hi> kept in ſuch a Place? he anſwered <hi>yes;</hi> and then they demanded, Who <hi>hired the Houſe?</hi> He told them <hi>himſelf</hi> had; they then ſaid, <hi>He must pay</hi> 20 <hi>l for that Meeting in the Houſe,</hi> and ſaid that it was a <hi>new Religion,</hi> and they would not ſuffer the Meeting to continue, <hi>but break it up, or force him out of Town.</hi> He then ſhew<g ref="char:EOLhyphen"/>ed his <hi>Licence</hi> or Qualification of the Houſe, and
+<pb n="13" facs="tcp:37515:7"/>
+alledged the <hi>Priviledg</hi> by the late Act for <hi>Liberty;</hi> which they would by no means allow, but cauſed their <hi>Levy</hi> to be executed both upon <hi>him</hi> and <hi>others;</hi> which cauſeth Conſternation to many <hi>young Beginners,</hi> who gladly received the Goſpel. After all this the <hi>Informers threatned to make a Rogue of Brother</hi> Mar<g ref="char:EOLhyphen"/>ham, becauſe he ſtill kept up the Meeting, ſo that laſt <hi>March,</hi> on the twenty ſixth or thereabout, they pretended a very hard Thing <hi>againſt him,</hi> demanding Security of him; but he refuſed, and then they ſwore one Witneſs againſt him, thinking to have committed Brother <hi>Marham</hi> to Priſon, but they could not bring their Purpoſe about: then Bro<g ref="char:EOLhyphen"/>ther <hi>James Marham</hi> getting a Copy of their Levy, found they had <hi>ſworn against one</hi> John Marham, to be then Preaching, though it was really Brother <hi>Long,</hi> who was only at Prayer, and not Preaching. And alſo that the Informers had ſworn, That one <hi>Francis Robbinſon</hi> was at the ſaid Meeting, who <hi>was not there:</hi> We having this Advantage, <hi>adviſed</hi> with divers, and particularly with the <hi>London Brethren</hi> what was beſt to be done in this Caſe, the <hi>Country Friends</hi> thought it beſt to lay it <hi>before the King and Queen,</hi> by way of <hi>Petition;</hi> but the Brethren at <hi>London,</hi> that were converſed with, did not think that adviſable, but rather adviſed our Brother <hi>Marham</hi> to go to <hi>Com<g ref="char:EOLhyphen"/>mon Law,</hi> and take Relief there. Which Advice was acco<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dingly followed, and the two Informers were put into the <hi>Crown Office;</hi> and our Brother had <hi>that way</hi> effectually done the Buſineſs, had not the greater <hi>Enemies</hi> eſpouſed the Buſineſs, and encouraged the <hi>Informers,</hi> when they ſhould have been proceeded againſt in order to a Tryal, then diſcharging Mr. <hi>Bur—</hi>our Brother <hi>Marham</hi>'s Attorney in <hi>London</hi> from any further <hi>Proſecution,</hi> as he would anſwer it
+<pb n="14" facs="tcp:37515:8"/>
+in the Hands or <hi>Cuſtody of a Meſſenger;</hi> ſo that <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Attorney, by this great Threat, deſiſting his <hi>Proceedings</hi> for a Time; the Informers <hi>took the Advantage to remove it</hi> from the <hi>Common Law</hi> into the <hi>Court of Chancery;</hi> and there is already a <hi>Subpoena</hi> ſerved at <hi>Lyn</hi> upon Brother <hi>Marham,</hi> to anſwer their <hi>Bill</hi> of Complaint: Which Bill being now received by Brother <hi>Marham,</hi> which I my ſelf did peruſe, contains 31 Sheets, by their way of drawing, though the very Subſtance of the ſame, <hi>will be proved utterly Falſe;</hi> notwithſtanding which it will coſt more <hi>Mony</hi> by far than Brother <hi>Marham</hi> is able to disburſe, without <hi>evident Ruin,</hi> it having coſt him a great deal at preſent to vindicate their <hi>Meeting.</hi> Brethren, It is not queſtioned but that our <hi>Country Friends</hi> will not be wanting; pray there<g ref="char:EOLhyphen"/>fore hold not back your Chriſtian <hi>Duty</hi> at this Time, but to all the good things you have heretofore been <hi>exemplary</hi> in, add this friendly Kindneſs alſo, and pray do it as ſpeedily and as well as you can, remem<g ref="char:EOLhyphen"/>ber the ancient and true Proverb, <hi>Bis dat qui cito dat.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Written at</hi> Lyn Regis, Norfork, <date>Feb. 6. 1692.</date>
+               </dateline>
+               <signed>
+                  <hi>Your Brother in the Lord,</hi>
+Nicholas Knowles, <hi>Whitelſey.</hi>
+               </signed>
+               <hi>If you deſire</hi> further Confirmation <hi>of the Premiſes, they will be ſigned and atteſted by the Brethren in</hi> Norwich, Yarmouth <hi>and</hi> Lincolnſhire.</closer>
+         </div>
+         <div type="statement">
+            <pb facs="tcp:37515:8"/>
+            <opener>
+               <dateline>
+                  <hi>Wisbich,</hi> 
+                  <date>Feb. 16. 1692/3.</date>
+               </dateline>
+               <hi>Brother Doe,</hi>
+            </opener>
+            <p>ACording to your Requeſt, I ſhall give you ſome ſhort account of what Sufferings Mr. <hi>Marham</hi> formerly underwent, upon the account of my keep<g ref="char:EOLhyphen"/>ing a <hi>Meeting at his Houſe.</hi> One Mr. <hi>Bur—,</hi> a Ju<g ref="char:EOLhyphen"/>ſtice of the Peace, granted out a Warrant to <hi>break up the Meeting;</hi> and the Warrant ran to take one <hi>John Thorp,</hi> or one that came from or near <hi>Wisbich</hi> whoſe Name they knew not: There was abundance of People raiſed, <hi>with all ſorts of Weapons, the Doors broke open, and I was taken,</hi> and kept Priſoner till next Day, and then had before the Juſtice: Mr. <hi>Mar<g ref="char:EOLhyphen"/>ham</hi> reſolving not to leave me, went thither with me. They ſent 5 Informers, but I took great No<g ref="char:EOLhyphen"/>tice of the <hi>goodneſs of God</hi> in that thing, for 4 of them were <hi>poor Labourers,</hi> and had no Living but <hi>un<g ref="char:EOLhyphen"/>der their Maſter</hi> that ſent them, yet ſaid they would <hi>ſtarve</hi> ſooner than <hi>ſwear</hi> to do me wrong; then they had but one. After the Juſtice ſaw he wanted Wit<g ref="char:EOLhyphen"/>neſs, ſaid, The <hi>Parliament</hi> was very ſhort in making that Act, that they did not make a <hi>Corporal Puniſh<g ref="char:EOLhyphen"/>ment</hi> as well as a <hi>Purſe.</hi> But ſaid he, <hi>Marham,</hi> I will ſend you to the <hi>Goal,</hi> and <hi>I will ruin the Anabaptist meetings in this Country, or they ſhall ruin me out of my Houſe.</hi> So Mr. <hi>Marham</hi> was ſent to the <hi>Goal,</hi> to his great <hi>loſs</hi> and Charge before he came out. His <hi>Suf<g ref="char:EOLhyphen"/>ferings are ſo many and ſo great,</hi> that without a con<g ref="char:EOLhyphen"/>ſiderable Time I cannot give account; <hi>He hath had his Goods ſeized,</hi> and ſeveral other Perſons had been <hi>ruined</hi> if he had not been, for he <hi>ſtood</hi> like a Man <hi>reſolved for God,</hi> to what he knew. He ſaved many poor Perſons from being <hi>ruin'd,</hi> (nay ſome of the Officers that ſeized his Goods) and <hi>defended all the Profeſſors at his own Cost and Charge,</hi> that came
+<pb facs="tcp:37515:9"/>
+to the Meetings. <hi>His Acts in entertaining and relieving ſuch Miniſters as were in want</hi> hath not been wanting: <hi>I ſpeak not as to my ſelf,</hi> for I never had any thing of him, nor <hi>bleſſed</hi> be God wanted it not; I ſay, <hi>If the baptized Congregations ſuffer this ruin to befal him and his F<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ily, there is no Congregation ſafe by this Act;</hi> for where ſhall we find any <hi>ſingle Perſon able</hi> to vie ſuch Suits with great Men; and not<g ref="char:EOLhyphen"/>withſtanding <hi>God hath a People there,</hi> yet no Man muſt go to Preach but he muſt be <hi>ruin'd.</hi> I need ſay no more at preſent, you having ſome knowledg of Things; but I deſire the Lord would <hi>touch the Hearts of his People</hi> with a fellow-feeling of his now <hi>Suffer<g ref="char:EOLhyphen"/>ings;</hi> and conſider how far <hi>the honour of God is ſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruck at,</hi> and the Liberty of the King's loving <hi>Sub<g ref="char:EOLhyphen"/>jects.</hi> This with my Love, from your unworthy Brother in the Bands of the <hi>Goſpel,</hi>
+            </p>
+            <closer>
+               <signed>William Rix.</signed>
+               <hi>Pray give the incloſed to Brother</hi> Keach; <hi>ſeal it or not, as you ſee oc<g ref="char:EOLhyphen"/>caſion:</hi> The Lo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, <hi>of his Mercy move the Hearts of the People to ſhew Bowels of</hi> Compaſſion to this Perſon and Cauſe. <hi>But if there be</hi> hardneſs of Heart, <hi>and no fellow-feeling, I ſhall fear greater</hi> Judgments <hi>coming on, for I took <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otice it was ſo before the</hi> Perſecution <hi>broke out ſo violent; for ſome Perſons they firſt be<g ref="char:EOLhyphen"/>gun upon were</hi> in a way to have freed all the reſt; but no perſon would contribute a Penny, their Purſes not being big enough, the Cauſe fell; <hi>and</hi> ſome <hi>that denied a ſmall Contribution, that were very able,</hi> at laſt came to the loſs of ſome hundred Pounds; <hi>this I took notice of, and know to be true.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>Since this Narrative was put to the Printers, Bro<g ref="char:EOLhyphen"/>ther <hi>Marham</hi> came to <hi>London,</hi> on purpoſe to put in his Anſwer in <hi>Chancery,</hi> and did it; and then ſeveral Brethren diſcourſed him. <date>
+                  <hi>Feb.</hi> 27, 1692.</date>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
